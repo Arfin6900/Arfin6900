@@ -26,9 +26,9 @@
 const arfin = {
   location     : "Pakistan 🇵🇰",
   role         : "Full Stack & Mobile Engineer",
-  stack        : ["React", "React Native", "Node.js", "TypeScript", "Go"],
-  cloud        : ["AWS", "GCP", "Firebase", "Docker"],
-  databases    : ["MongoDB", "Firestore"],
+  stack        : ["React", "React Native", "Node.js", "TypeScript", "Python"],
+  cloud        : ["AWS", "GCP", "Firebase", "Docker","Digital Ocean", "Nginx"],
+  databases    : ["MongoDB", "Firestore","PostgreSQL","Dynamo DB"],
   currentFocus : "Building scalable, production-ready apps",
   funFact      : "I debug faster with coffee ☕",
 };
